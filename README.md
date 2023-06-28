@@ -2,7 +2,7 @@
 My name is Tuyen Le. I am a Student, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![TuyenLe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuyenLe)](https://github.com/tuyenle009)
 
 
 
