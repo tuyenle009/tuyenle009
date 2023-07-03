@@ -12,5 +12,5 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenle009&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tuyenle009&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
