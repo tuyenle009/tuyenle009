@@ -10,14 +10,6 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenle009&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="https://github.com/tuyenle009/Hand-Sign-Language-Recognition-Pytorch-MediaPipe">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=Hand-Sign-Language&theme=radical" />
-</a>    
-<a href="https://github.com/tuyenle009/YOLOv8-Object_Tracking-Counting_Vehicles">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=Tracking-Vehicles&theme=merko" />
-</a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
