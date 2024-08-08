@@ -56,9 +56,9 @@
 
 <h3 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Repo:</h3>
 <p align="center">
-<a href="https://github.com/tuyenle009/Simple-CNN-Beginner">
+<a href="https://github.com/tuyenle009/Football-Player-Tracking-Pytorch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=Simple-CNN-Beginner&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=Football-Player-Tracking-Pytorch&theme=radical" />
 </a>    
 <a href="https://github.com/tuyenle009/AI-Virtual-Keyboard-Using-OpenCV">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
