@@ -64,9 +64,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=AI-Virtual-Keyboard-Using-OpenCV&theme=merko" />
 </a>
-<a href="https://github.com/tuyenle009/Hand-Sign-Language-Recognition-Pytorch-MediaPipe">
+<a href="https://github.com/tuyenle009/Hand-Sign-Language-Recognition-Pytorch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=Hand-Sign-Language-Recognition-Pytorch-MediaPipe&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuyenle009&repo=Hand-Sign-Language-Recognition-Pytorch&theme=gruvbox" />
 </a>    
 <a href="https://github.com/tuyenle009/Air-Canvas-ML-Model">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
